@@ -1,3 +1,11 @@
+To run this Code, you need to run the backend server and the frontend simultaneously in two separate terminals
+
+1. npm run start:frontend
+2. npm run start:backend
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
